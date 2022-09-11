@@ -1,6 +1,6 @@
 # CS465-SNHU
 CS-465-H7504 Full Stack Development I 22EW1
-Change Log Module2 09112022
+- Change Log Module2 09112022
 - Change the foler structure to MVC architecture by creating a app_server folder and controllers and models folders. Then moved the routes and views folders into app_server.
 
 - updated the views and routes folder location by updating in the code in app.js.
